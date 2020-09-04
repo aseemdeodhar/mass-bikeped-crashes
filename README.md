@@ -1,6 +1,6 @@
 # Insights on Automobile Crashes Involving Bicycles and Pedestrians
 
-By using R and Adobe Illustrator, with data sourced from the MassDOT IMPACT crash portal, I created visualizations of insights on automobile crashes involving pedestrians and bicycles to present to the Massachusetts Bicycle and Pedestrian Advisory Board. By analyzing various variables such as road conditions and kind of road, driver action, vehicle location, time of day I investigated conditions and potential reasons for these crashes
+By using R and Adobe Illustrator, with data sourced from the [MassDOT IMPACT crash portal](https://apps.impact.dot.state.ma.us/cdp/home), I created visualizations of insights on automobile crashes involving pedestrians and bicycles to present to the Massachusetts Bicycle and Pedestrian Advisory Board. By analyzing various variables such as road conditions and kind of road, driver action, vehicle location, time of day I investigated conditions and potential reasons for these crashes
 
 |Slide|Comments|
 |:------:|:--------|
