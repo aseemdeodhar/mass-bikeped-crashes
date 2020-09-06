@@ -18,14 +18,14 @@ By using R and Adobe Illustrator, with data sourced from the [MassDOT IMPACT cra
 * **Data Collection Improvements:** Simplifying collected variables. Are all 115 variables collected on crashes required/impactful enough to collect? Do all police precincts report on, or have the personnel/technological capacity to collect these datapoints?
 
 |Slide|Comments|
-|:------:|:--------|
-|![](slides/pres_slides_svg-02.jpg)|**Introduction:** Summary statistics|
-|![](slides/pres_slides_svg-03.jpg)|**Vehicle Type:** Pedestrian crashes: overall, and severe crashes|
-|![](slides/pres_slides_svg-04.jpg)|**Vehicle Type:** Bicycle crashes: overall, and severe crashes|
-|![](slides/pres_slides_svg-05.jpg)|**Hit & Run Cases:** Pedestrian and bicycle crashes|
-|![](slides/pres_slides_svg-06.jpg)|**Road Intersection Type & Vehicle Action:** _Severe_ pedestrian crashes|
-|![](slides/pres_slides_svg-07.jpg)|**Road Intersection Type & Vehicle Action:** _Severe_ bicycle crashes|
-|![](slides/pres_slides_svg-08.jpg)|**Age group & Time of Day:** _All_ pedestrian crashes|
-|![](slides/pres_slides_svg-09.jpg)|**Age group & Time of Day:** _All_ bicycle crashes|
-|![](slides/pres_slides_svg-10.jpg)|**School Zone & Age Group:** Pedestrian and bicycle crashes|
-|![](slides/pres_slides_svg-11.jpg)|**Conclusions:** Observations & challenges|
+|:----------------------------------------------:|:--------|
+|![](slides/pres_slides_png-02.png)|**Introduction:** Summary statistics|
+|![](slides/pres_slides_png-03.png)|**Vehicle Type:** Pedestrian crashes: overall, and severe crashes|
+|![](slides/pres_slides_png-04.png)|**Vehicle Type:** Bicycle crashes: overall, and severe crashes|
+|![](slides/pres_slides_png-05.png)|**Hit & Run Cases:** Pedestrian and bicycle crashes|
+|![](slides/pres_slides_png-06.png)|**Road Intersection Type & Vehicle Action:** _Severe_ pedestrian crashes|
+|![](slides/pres_slides_png-07.png)|**Road Intersection Type & Vehicle Action:** _Severe_ bicycle crashes|
+|![](slides/pres_slides_png-08.png)|**Age group & Time of Day:** _All_ pedestrian crashes|
+|![](slides/pres_slides_png-09.png)|**Age group & Time of Day:** _All_ bicycle crashes|
+|![](slides/pres_slides_png-10.png)|**School Zone & Age Group:** Pedestrian and bicycle crashes|
+|![](slides/pres_slides_png-11.png)|**Conclusions:** Observations & challenges|
